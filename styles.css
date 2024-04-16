@@ -1,0 +1,16 @@
+:root {
+    --streetblue: #1f9fca; 
+    --white: #fff;
+    --red: #f00;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 20px 0 0 20px; /*Top right bottom left*/ 
+}
